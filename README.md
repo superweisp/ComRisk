@@ -1,6 +1,4 @@
 # ComRisk
-This repository is for paper " Combining Enterprise Intra-Risk with Contagion Risk for Bankruptcy Prediction via Graph Neural
-Networks" [Arxiv](https://arxiv.org/abs/2202.03874)
 
 ## SMEsD
 The SMEsD consists of 3,976 SMEs and related persons in China from 2014 to 2021, which constitutes a multiplex enterprise knowledge graph. All enterprises are associated with their basic business information and lawsuit events spanning from 2000 to 2021. Specifically, the enterprise business information includes registered capital,  paid-in capital and established time. Each lawsuit consists of the associated plaintiff, defendant, subjects, court level, result and timestamp.
